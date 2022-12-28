@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working at Wikicar as CTO<br>👯 I’m looking to collaborate on app development<br>🌱 I’m currently learning web and app development<br>💬 Python, Javascript, Css and Html developer<br>⚡ Soon to start learning Dart and Flutter
+🔭 Working as CTO at Wikicar <br>👯 I’m looking to collaborate on app development<br>🌱 I’m currently learning web and app development<br>💬 Python, Javascript, Css and Html developer<br>⚡ Soon to start learning Dart and Flutter
 
 
 # 💻 Tech Stack:
